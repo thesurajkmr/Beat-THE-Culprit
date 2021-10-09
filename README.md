@@ -1,5 +1,8 @@
 # Beat-THE-Culprit
-Surveillance Cameras can <strong> detect </strong> and <strong> notify </strong> concerned authorities when a suspect pass through a queue when deployed at public places.
+Beat The Culprit is a command line application assists to catch the criminals from crowded places.
+By using CCTV of crowded places it use to detect recorded criminals.
+Face Recognition algorithms and Python3 programming language are used to develop this app.
+Cloud Firestore database is used to store the record of the criminals for detecting them by matching their facial gesture.
 <h1> Algorithm:- </h1>
 <p>
   Check Out the Algorithm :- <a href="https://github.com/thesurajkmr/Beat-THE-Culprit/blob/main/Beat%20The%20Culprit%20Algorithm.pdf">Click Here</a>
